@@ -1,0 +1,9 @@
+{
+    "name": "pagedown",
+    "description": "Markdown-to-HTML processor",
+    "homepage": "https://github.com/apendua/meteor-pagedown",
+    "author": "Tomasz Lenarcik",
+    "version": "0.0.1",
+    "git": "https://github.com/apendua/meteor-pagedown.git",
+    "packages": {}
+}
