@@ -5,6 +5,7 @@ Package.describe({
 
 Package.on_use(function (api) {
     api.use('handlebars', 'client');
+    api.use('marked', 'client');
     var path = Npm.require('path');
     var asset_path = path.join('lib');
     api.add_files([
