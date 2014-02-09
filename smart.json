@@ -1,9 +1,9 @@
 {
-    "name": "pagedown",
-    "description": "Markdown-to-HTML processor",
-    "homepage": "https://github.com/apendua/meteor-pagedown",
-    "author": "Tomasz Lenarcik",
+    "name": "pagedown-bootstrap",
+    "description": "Markdown-to-HTML processor and edtior",
+    "homepage": "https://github.com/Blahah/meteor-pagedown-bootstrap",
+    "author": "Richard Smith",
     "version": "0.0.1",
-    "git": "https://github.com/apendua/meteor-pagedown.git",
+    "git": "https://github.com/Blahah/meteor-pagedown-bootstrap.git",
     "packages": {}
 }
