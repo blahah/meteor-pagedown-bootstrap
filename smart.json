@@ -5,5 +5,7 @@
     "author": "Richard Smith",
     "version": "0.0.1",
     "git": "https://github.com/Blahah/meteor-pagedown-bootstrap.git",
-    "packages": {}
+    "packages": {
+        "marked": "0.2.5"
+    }
 }
