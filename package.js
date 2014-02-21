@@ -5,9 +5,10 @@ Package.describe({
 
 Package.on_use(function (api) {
     api.use('handlebars', 'client');
-    api.use('marked', 'client');
+
     var path = Npm.require('path');
     var asset_path = path.join('lib');
+
     api.add_files([
       // pagedown
       path.join(asset_path, 'Markdown.Converter.js'),
@@ -17,10 +18,6 @@ Package.on_use(function (api) {
 
       // meteor helpers
       path.join(asset_path, 'helpers.js'),
-
-      // icons
-	    path.join(asset_path, 'Markdown.Editor.Icons.fw.png'),
-	    path.join(asset_path, 'Markdown.Editor.Icons.png')
 
     ], 'client');
 
