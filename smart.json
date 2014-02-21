@@ -1,8 +1,8 @@
 {
   "name": "pagedown-bootstrap",
-  "description": "Markdown-to-HTML processor and edtior",
+  "description": "Markdown-to-HTML processor and editor as used on StackExchange",
   "homepage": "https://github.com/Blahah/meteor-pagedown-bootstrap",
-  "author": "Richard Smith",
+  "author": "Richard Smith-Unna (http://blahah.net)",
   "version": "0.0.1",
   "git": "https://github.com/Blahah/meteor-pagedown-bootstrap.git",
   "packages": {
