@@ -1,10 +1,9 @@
-
 Package.describe({
     summary: "Markdown-to-HTML processor and editor",
 });
 
 Package.on_use(function (api) {
-    api.use('handlebars', 'client');
+    api.use('ui', 'client');
 
     var path = Npm.require('path');
     var asset_path = path.join('lib');
