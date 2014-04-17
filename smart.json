@@ -3,7 +3,7 @@
   "description": "Markdown-to-HTML processor and editor as used on StackExchange",
   "homepage": "https://github.com/Blahah/meteor-pagedown-bootstrap",
   "author": "Richard Smith-Unna (http://blahah.net)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "git": "https://github.com/Blahah/meteor-pagedown-bootstrap.git",
   "packages": {
     "marked": {}
